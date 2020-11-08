@@ -6,4 +6,7 @@ Opis: baza ma na celu przedstawic organizacje oraz zarządzanie przesyłkami w
 Uzytkownicy:
       Kurier, Klient
       
-TODO: zaprojektowac tabele oraz relacje poniedzy nimi.
+Narzedzia: 
+      GITHUB :), MqSQL Workbench, xampp(phpMyAdmin,MySQL)
+      
+TODO: diagram ERD(tabele oraz relacje poniedzy nimi).
