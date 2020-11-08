@@ -1,0 +1,9 @@
+Temat projektu: Baza danych firmy kurierskiej
+
+Opis: baza ma na celu przedstawic organizacje oraz zarządzanie przesyłkami w 
+      firmie kurierskiej od momentu nadania przesyłki do jej dostarczenia.
+
+Uzytkownicy:
+      Kurier, Klient
+      
+TODO: zaprojektowac tabele oraz relacje poniedzy nimi.
